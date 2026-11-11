@@ -1,6 +1,10 @@
 <div align="center">
 
-# Scoutbin
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scoutbin/.github/main/assets/scoutbin-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scoutbin/.github/main/assets/scoutbin-logo-light.svg">
+  <img src="https://raw.githubusercontent.com/scoutbin/.github/main/assets/scoutbin-logo-light.svg" alt="scoutbin" width="320">
+</picture>
 
 Command-line tools written in Go, built on a shared core.
 
