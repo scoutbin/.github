@@ -12,7 +12,7 @@ Command-line tools written in Go, built on a shared core.
 
 ## Tools
 
-- [scout](https://github.com/scoutbin/scout) - Codebase explore context done right
+- [explore](https://github.com/scoutbin/explore) - Codebase explore context done right
 - [digest](https://github.com/scoutbin/digest) - Turn logs into readable facts
 - [pin](https://github.com/scoutbin/pin) - Audit system behaviour in a lockfile
 
