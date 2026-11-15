@@ -7,6 +7,10 @@ Organisation-level repo for [scoutbin](https://github.com/scoutbin), a set of co
 - `profile/README.md` - the profile page shown on github.com/scoutbin.
 - `assets/` - brand assets: avatar, and dark and light logos in PNG and SVG.
 - `LICENSE` - Apache-2.0.
+- `SECURITY.md` - how to report vulnerabilities.
+- `CONTRIBUTING.md` - how to help without pull requests.
+- `SUPPORT.md` - where to get help.
+- `GOVERNANCE.md` - how the projects are maintained and decisions are made.
 
 ## Profile logos
 
